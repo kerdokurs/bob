@@ -1,4 +1,4 @@
-module kerdo.dev/bob
+module github.com/kerdokurs/bob
 
 go 1.18
 

@@ -9,5 +9,5 @@ Inspired by: [Kugelschieber/go-game](https://github.com/Kugelschieber/go-game)
 ```
 go get github.com/go-gl/gl/v3.3-core/gl
 go get github.com/go-gl/glfw/v3.3/glfw
-github.com/go-gl/mathgl/mgl32
+go get github.com/go-gl/mathgl/mgl32
 ```
